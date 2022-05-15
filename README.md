@@ -21,5 +21,5 @@ Below is a step-by-step process on how to download and install Selenium IDE for 
 
 1. Open Selenium IDE
 2. Click on "Open an existing project"
-3. Import all test within the "Test" folder
+3. Import file PHPTravelsDemo.side
 4. Run all test
